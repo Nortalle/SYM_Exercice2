@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SYM - Exercice 2</string>
+    <string name="sct_0">Local</string>
+    <!--<string name="sct_1">Threads</string>-->
+    <string name="sct_2">Asyntasks</string>
+    <string name="sct_3">ThreadPoolExecutor</string>
+</resources>
